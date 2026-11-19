@@ -1,0 +1,6 @@
+interface:
+  display_name: "goff-1（第一性原理）"
+  short_description: "检查问题定义，找出真正要解决的需求，并检验关键因果假设"
+  default_prompt: "使用 $goff-1 检查这个问题的定义，找出真正需要解决的事。"
+policy:
+  allow_implicit_invocation: false

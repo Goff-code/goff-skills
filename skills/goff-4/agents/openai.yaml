@@ -1,0 +1,6 @@
+interface:
+  display_name: "goff-4（反方检验）"
+  short_description: "从最强反方出发，找出能推翻当前方案的证据、反例与失效边界"
+  default_prompt: "使用 $goff-4 检验当前方案，找支持修订或替换的反证。"
+policy:
+  allow_implicit_invocation: false

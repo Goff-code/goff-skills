@@ -1,0 +1,6 @@
+interface:
+  display_name: "goff-3（跨领域借鉴）"
+  short_description: "寻找不同领域的相似解法，明确适用条件后比较可落地的方案"
+  default_prompt: "使用 $goff-3 找其他领域的相似解法，并比较哪些能用于当前问题。"
+policy:
+  allow_implicit_invocation: false
