@@ -1,9 +1,9 @@
 ---
-name: goff-image-1
-description: 用户点名「Goff Image 一代」或 $goff-image-1，并提供 JPG 或 PNG，希望把成图按用途拆成可移动、可隐藏的 Photoshop 图层时使用。保留原图可见细节，用 Codex 内置生图补全遮挡，交付有完整素材、可编辑蒙版的 PSD、原位 PNG 和真实关层对照。
+name: goff-image-95
+description: 用户点名「goff-image-95%」或 $goff-image-95，并提供 JPG 或 PNG，希望把成图按用途拆成可移动、可隐藏的 Photoshop 图层时使用。保留原图可见细节，用 Codex 内置生图补全遮挡，交付有完整素材、可编辑蒙版的 PSD、原位 PNG 和真实关层对照。
 ---
 
-# Goff Image 一代
+# goff-image-95%
 
 接到一张成图，交付一份改得动的源文件。判断分层是否合适，用设计师的下一步操作来衡量。例如，能否拿掉奶茶、换一行文案、单独移动一颗玛瑙，而且拿掉以后仍然有完整的台面、杯口或圆环。
 

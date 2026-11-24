@@ -1,0 +1,7 @@
+interface:
+  display_name: "goff-image-95%"
+  short_description: "拆成完整可编辑图层，逐件核验；全开像素一致率目标 95%"
+  default_prompt: "使用 $goff-image-95 拆这张图。按物体补全被挡结构，保留可编辑蒙版。逐件单看、关层，核对全开像素一致率是否达到 95%，给我 PSD、素材和关层对照。"
+
+policy:
+  allow_implicit_invocation: false

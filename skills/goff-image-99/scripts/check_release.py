@@ -1,4 +1,4 @@
-"""Verify full-resolution reconstruction and object-toggle evidence for goff-image-2."""
+"""Verify full-resolution reconstruction and object-toggle evidence for goff-image-99."""
 import argparse
 import hashlib
 import json

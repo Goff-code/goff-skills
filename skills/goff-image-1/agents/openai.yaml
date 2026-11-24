@@ -1,7 +1,0 @@
-interface:
-  display_name: "Goff Image 一代"
-  short_description: "从成图恢复可复用的完整素材，在 Photoshop 实测全开与关层效果"
-  default_prompt: "使用 $goff-image-1 拆这张图。按物体补全被挡结构，保留可编辑蒙版。逐件单看、关层，核对全开像素一致率是否达到 95%，给我 PSD、素材和关层对照。"
-
-policy:
-  allow_implicit_invocation: false
