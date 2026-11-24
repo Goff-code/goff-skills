@@ -2,10 +2,10 @@
 
 提供四种思考方式和两档图像拆层技能。在 Codex 用 `$goff-skill` 打开菜单，或直接调用其中一条。
 
-- `$goff-1` · 第一性原理
-- `$goff-2` · 先问偏好，再给三版方案
-- `$goff-3` · 跨领域借鉴
-- `$goff-4` · 反方检验
+- `$goff-think-1` · 第一性原理
+- `$goff-think-2` · 先问再做
+- `$goff-think-3` · 跨领域借鉴
+- `$goff-think-4` · 反方检验
 
 用 `$goff-skill 1+4` 组合使用。打开菜单后也可以说「看第 3 条原文」。
 
@@ -14,7 +14,7 @@
 一条命令安装整套技能。在 Codex 输入 `$goff-skill` 打开总菜单，选择思考方式或图像拆层。
 
 ```sh
-npx -y skills add Goff-code/goff-skills -a codex -g -s goff-skill -s goff-1 -s goff-2 -s goff-3 -s goff-4 -s goff-image -s goff-image-95 -s goff-image-99 -y
+npx -y skills add Goff-code/goff-skills -a codex -g -s goff-skill -s goff-think-1 -s goff-think-2 -s goff-think-3 -s goff-think-4 -s goff-image -s goff-image-95 -s goff-image-99 -y
 ```
 
 ## 图像拆层
