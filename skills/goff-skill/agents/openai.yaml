@@ -1,6 +1,6 @@
 interface:
-  display_name: "goff-skill（goff skill）"
-  short_description: "从 goff-1 到 goff-4 选择或组合四条常用提示词"
-  default_prompt: "打开 $goff-skill，让我选择这次要用的提示词。"
+  display_name: "Goff Skills 总入口"
+  short_description: "选择四种思考方式，或按 95% 和 99% 两档拆分图像"
+  default_prompt: "打开 $goff-skill，让我选择思考方式或图像拆层。"
 policy:
   allow_implicit_invocation: false
