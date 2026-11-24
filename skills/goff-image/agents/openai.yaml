@@ -1,0 +1,6 @@
+interface:
+  display_name: "Goff Image 图像拆层"
+  short_description: "选择 95% 或 99% 严格相同的 Photoshop 拆图验收条件"
+  default_prompt: "打开 $goff-image，选择这次拆图的代际。"
+policy:
+  allow_implicit_invocation: false
